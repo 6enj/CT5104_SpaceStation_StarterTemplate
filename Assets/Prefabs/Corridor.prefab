@@ -4920,7 +4920,7 @@ GameObject:
   - component: {fileID: 4461954025563425202}
   - component: {fileID: 4587343803374194973}
   m_Layer: 0
-  m_Name: RotatingCorridor
+  m_Name: Corridor
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4936,7 +4936,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -11.16, y: 2.1643429, z: -9.155356}
-  m_LocalScale: {x: 1.9893543, y: 1, z: 1}
+  m_LocalScale: {x: 4, y: 2, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 6461723729630935278}
@@ -4955,7 +4955,7 @@ Animator:
   m_GameObject: {fileID: 6303403450427867037}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 36ba86f6def405d4382b1914b261c6ed, type: 2}
+  m_Controller: {fileID: 0}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
